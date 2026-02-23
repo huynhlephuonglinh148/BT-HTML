@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Các cấp đề mục của trang web</title>
+    </head>
+    <body>
+<h1>Nội dung yêu thích</h1>
+   <h2>Hình ảnh</h2>
+    <table>
+       <tr>
+        <td><img src="https://hoanghamobile.com/tin-tuc/wp-content/uploads/2024/04/anh-bien.jpg" width="500"></td>
+        <td><img src="https://hoangphucphoto.com/wp-content/uploads/2024/08/anh-pc-bien-1.jpg" width="500"></td>
+       </tr>
+       <tr>
+        <td><img src="https://marketplace.canva.com/NYtKY/MAGxOENYtKY/1/tl/canva-sea-sunset-MAGxOENYtKY.jpg"  width="500"></td>
+        <td><img src="https://laichau.edu.vn/upload/19954/20220419/1_d6e65c4ca4.jpg"  width="500"></td>
+       </tr>
+    </table>
+    </body>
+</html>
 
